@@ -1,0 +1,8 @@
+This app is NFT, React and solidity, smart contract practice project.
+This project built the two contracts.
+One if for ERC720 NFT mint site.
+And another one is for Marketplace!
+
+This project also try to use polygon mumbai netowrk to connect with infura API and IPFS with hardhat framework.
+
+Polygon is compatible Ethereum smart contract!
